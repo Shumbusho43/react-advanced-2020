@@ -13,7 +13,7 @@ const PropDrilling = () => {
   return <section>
     <h3>Prop drilling</h3>
     <List people={people} removePerson={removePerson}/>
-  </section>
+  </section> 
 };
 const List = ({ people, removePerson }) => {
   return <>
