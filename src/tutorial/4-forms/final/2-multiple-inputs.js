@@ -70,7 +70,7 @@ const ControlledInputs = () => {
               <p>{age}</p>
             </div>
           );
-        })}
+        })};
       </article>
     </>
   );
